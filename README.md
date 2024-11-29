@@ -66,7 +66,12 @@ We reserve the right to suspend or terminate your access to the Service for viol
 10. Contact Us<br>
 For questions about these Terms, reach out to us at [Your Email Address].</p>
 
- <title>Privacy Policy</title>
+<head>
+    <title>Privacy Policy</title>
+</head>
+<body>
+    <h1>>Privacy Policy</h1>
+<body></p>Privacy Policy (PP)
 Effective Date: 11/29/2024</p>
 
 At NoFuss Solution, we value your privacy and are committed to protecting any information collected during your use of our AI Automation services.</p>
